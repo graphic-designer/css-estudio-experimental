@@ -1,5 +1,5 @@
 # CSS Estudio experimental
-Serie de 8 estudios de campo sobre CSS nativo, accesibilidad (APCA/OKLCH) y eliminación de deuda técnica (Baseline 2026)
+Serie de 8 estudios de campo sobre CSS nativo, accesibilidad (OKLCH) y eliminación de deuda técnica (Baseline 2026)
 # Ignacio Llorente Fdez de la Reguera
 ### Diseñador Gráfico & Design Technologist
 
@@ -9,7 +9,7 @@ Llevo desde 1999 uniendo la estética del diseño gráfico con la precisión té
 
 **Áreas de especialización:**
 
- * Consultoría en Estándares W3C y Accesibilidad (WCAG / APCA).
+ * Consultoría en Estándares W3C y Accesibilidad (WCAG).
  * Arquitectura de interfaces con CSS moderno (OKLCH, Container Queries).
  * Diseño y desarrollo de sistemas de diseño (Design Systems) sin dependencias de frameworks.
 
