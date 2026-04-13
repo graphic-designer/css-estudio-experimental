@@ -1,9 +1,9 @@
 # CSS Estudio experimental
-Serie de 8 estudios de campo sobre CSS nativo, accesibilidad (OKLCH) y eliminación de deuda técnica (Baseline 2026)
+Serie de 8 estudios de campo sobre CSS nativo, accesibilidad y eliminación de deuda técnica (Baseline 2026)
 # Ignacio Llorente Fdez de la Reguera
 ### Diseñador Gráfico & Design Technologist
 
-Llevo desde 1999 uniendo la estética del diseño gráfico con la precisión técnica de los estándares web. Mi enfoque profesional se centra en la construcción de interfaces mediante código nativo, priorizando la accesibilidad universal y la eficiencia técnica.
+Desde 1999 uniendo la estética del diseño gráfico con la precisión técnica de los estándares web. Mi enfoque profesional se centra en la construcción de interfaces mediante código nativo, priorizando la accesibilidad universal y la eficiencia técnica.
 
 ---
 
