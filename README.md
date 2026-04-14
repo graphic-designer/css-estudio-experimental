@@ -1,5 +1,5 @@
 # CSS Estudio experimental
-Serie de 8 estudios de campo sobre CSS nativo, accesibilidad y eliminación de deuda técnica (Baseline 2026)
+LinkedIn. Serie de 8 estudios de campo sobre CSS nativo, accesibilidad y eliminación de deuda técnica (Baseline 2026/Abril)
 # Ignacio Llorente Fdez de la Reguera
 ### Diseñador Gráfico & Design Technologist
 
